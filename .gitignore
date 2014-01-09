@@ -2,3 +2,5 @@
 .project
 .pydevproject
 .settings
+dist
+async_pubsub.egg-info
