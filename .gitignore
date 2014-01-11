@@ -3,4 +3,5 @@
 .pydevproject
 .settings
 dist
+build
 async_pubsub.egg-info
