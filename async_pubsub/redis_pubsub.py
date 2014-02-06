@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 import io
-import redis
 import socket
+import redis
 import hiredis
 from tornado.iostream import IOStream
 from .base import PubSubBase
