@@ -1,5 +1,5 @@
 import sys
-from async_pubsub import ZMQPubSub
+from async_pubsub.zmq_pubsub import ZMQPubSub
 
 if __name__ == '__main__':
     channel_id = sys.argv[1]

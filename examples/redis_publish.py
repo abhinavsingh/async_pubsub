@@ -1,5 +1,5 @@
 import sys
-from async_pubsub import RedisPubSub
+from async_pubsub.redis_pubsub import RedisPubSub
 
 if __name__ == '__main__':
     channel_id = sys.argv[1]

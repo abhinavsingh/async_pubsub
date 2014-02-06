@@ -1,7 +1,7 @@
 import sys
 from tornado.ioloop import IOLoop
 
-from async_pubsub import ZMQPubSub
+from async_pubsub.zmq_pubsub import ZMQPubSub
 from async_pubsub.constants import (CALLBACK_TYPE_CONNECTED, CALLBACK_TYPE_SUBSCRIBED, 
                                     CALLBACK_TYPE_UNSUBSCRIBED, CALLBACK_TYPE_MESSAGE,
                                     CALLBACK_TYPE_DISCONNECTED)
