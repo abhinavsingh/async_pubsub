@@ -1,4 +1,4 @@
 hiredis==0.1.1
-redis==2.7.6
+redis==4.4.4
 tornado==3.2
 pyzmq==13.1.0
